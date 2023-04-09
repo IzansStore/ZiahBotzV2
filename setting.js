@@ -43,7 +43,7 @@
       "atas_nama": "IZANSSTORE" 
     }},
     
-  "pathQris": "./temp/media/qris.jpg", 
+  "pathQris": "./temp/media/IMG-20230409-WA0039.jpg", 
   "pathCont": "./temp/media/contributor.jpg", 
   "pathBc": "./temp/media/bc.jpg", 
   "pathThumb": "./temp/media/IMG-20230409-WA0036.jpg", 
