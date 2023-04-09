@@ -8,21 +8,21 @@
  "author": "FazaMd", 
 
  "youtube": "https://www.youtube.com/@IzansStore", 
- "github": "Github", 
- "instagram": "Instagram", 
- "tiktok": "TikTok", 
- "website": "Website", 
- "email": "Email", 
- "gender": "Gender/Jenis Kelamin", 
- "agama": "Agama", 
- "tanggallahir": "Tanggal Lahir", 
- "umur": "Umur", 
- "kelas": "Kelas", 
- "hobi": "Hobi", 
- "sifat": "Sifat", 
- "tinggal": "Tempat Tinggal", 
- "suka": "Kesukaan", 
- "benci": "Kebencian", 
+ "github": "https://github.com/IzansStore", 
+ "instagram": "https://instagram.com/jb.izansstorereal?igshid=MGNiNDI5ZTU=", 
+ "tiktok": "http://tiktok.com/@therred150", 
+ "website": "https://linktr.ee/izansstore", 
+ "email": "izansstore@gmail.com", 
+ "gender": "laki-laki", 
+ "agama": "Islam", 
+ "tanggallahir": "16 September 2023", 
+ "umur": "29", 
+ "kelas": "Lulus", 
+ "hobi": "Voly", 
+ "sifat": "Pendiam", 
+ "tinggal": "Di Hati Mu", 
+ "suka": "Tidur", 
+ "benci": "Ga ada", 
  
   "api_alpha": "https://alphabot-api.herokuapp.com", 
   "apikey_alpha": "APIKEY", 
@@ -36,11 +36,11 @@
  "payment": {
     "qris": {
       "link_nya": "Link Qris/Foto qris", 
-      "atas_nama": "Nama" 
+      "atas_nama": "-" 
     },
     "dana": {
-      "nomer": "Nomor Dana", 
-      "atas_nama": "Nama" 
+      "nomer": "082298627146", 
+      "atas_nama": "IZANSSTORE" 
     }},
     
   "pathQris": "./temp/media/qris.jpg", 
