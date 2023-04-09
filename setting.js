@@ -46,7 +46,7 @@
   "pathQris": "./temp/media/qris.jpg", 
   "pathCont": "./temp/media/contributor.jpg", 
   "pathBc": "./temp/media/bc.jpg", 
-  "pathThumb": "./temp/media/logoNya.jpg", 
-  "pathThumb2": "./temp/media/logo.jpg", 
+  "pathThumb": "./temp/media/IMG-20230409-WA0036.jpg", 
+  "pathThumb2": "./temp/media/IMG-20230409-WA0036.jpg", 
   "pathMenfes": "./temp/media/menfes.jpg" 
   }
